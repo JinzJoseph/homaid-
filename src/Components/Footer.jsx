@@ -14,7 +14,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-14 md:gap-4">
           {/* first section */}
           <div className="space-y-4 max-w-[300px]">
-            <h1 className="text-2xl font-bold">The Coding Journey</h1>
+            <h1 className="text-2xl font-bold">Homeaid+</h1>
             <p className="text-dark2">
               Homaid+ is a platform dedicated to all home lovers , your one-stop solution for home maintenance! We specialize in home cleaning, tile cleaning, and grass cutting services, ensuring every part of your home looks its best. Our experienced team delivers top-notch results, leaving your home spotless, your tiles shining, and your lawn perfectly trimmed. Trust us to keep your home clean, fresh, and beautiful—inside and out!
             </p>
